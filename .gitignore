@@ -1,6 +1,0 @@
-venv
-__pycache__/
-alembic/versions/__pycache__/
-alembic/__pycache__/
-.idea
-node_modules
